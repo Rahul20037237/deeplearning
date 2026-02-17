@@ -1,0 +1,271 @@
+id: fcb16bee-9c37-48b0-95bc-7470d0397efe
+name: PDF Objective Code Solution
+type: 1
+canvas_id: d8514777-f1cb-4d9b-bf1b-1d619ed317f3
+blocks:
+- auto_size: false
+  canvas_id: d8514777-f1cb-4d9b-bf1b-1d619ed317f3
+  compute_settings: null
+  description: Implements optimized search and ranking algorithms with inverted indexes
+    for multi-criteria job filtering, TF-IDF text search, and learning-to-rank scoring
+    with result diversification
+  height: 1000
+  id: 18c60899-03a0-4642-af19-27241b3547ac
+  layer_id: fcb16bee-9c37-48b0-95bc-7470d0397efe
+  name: search_algorithms_optimization
+  parent_id: null
+  properties: {}
+  status: 1
+  type: 1
+  variables: null
+  width: 1600
+  x: 12000
+  y: 0
+- auto_size: false
+  canvas_id: d8514777-f1cb-4d9b-bf1b-1d619ed317f3
+  compute_settings: null
+  description: Runs comprehensive performance tests on auth, search, and AI matching
+    systems, measuring latency, throughput, scalability, and edge cases with an overall
+    performance score
+  height: 1000
+  id: 28fe061d-732f-417a-bbab-c933d5dfc0fd
+  layer_id: fcb16bee-9c37-48b0-95bc-7470d0397efe
+  name: performance_stress_tests
+  parent_id: null
+  properties: {}
+  status: 1
+  type: 1
+  variables: null
+  width: 1600
+  x: 22000
+  y: 0
+- auto_size: false
+  canvas_id: d8514777-f1cb-4d9b-bf1b-1d619ed317f3
+  compute_settings: null
+  description: Ranks jobs using semantic embeddings, skill matching, and weighted
+    scoring with freshness/salary factors
+  height: 1000
+  id: 4a1434e6-9b28-49fa-bd46-4d55c5937544
+  layer_id: fcb16bee-9c37-48b0-95bc-7470d0397efe
+  name: ai_matching_engine
+  parent_id: null
+  properties: {}
+  status: 1
+  type: 1
+  variables: null
+  width: 1600
+  x: 8000
+  y: 0
+- auto_size: false
+  canvas_id: d8514777-f1cb-4d9b-bf1b-1d619ed317f3
+  compute_settings: null
+  description: Implements JWT authentication, password hashing, RBAC permission system,
+    and API key management for secure user access control
+  height: 1000
+  id: 57983c76-1fda-4538-9a6a-8bbf973a2f03
+  layer_id: fcb16bee-9c37-48b0-95bc-7470d0397efe
+  name: authentication_service
+  parent_id: null
+  properties: {}
+  status: 1
+  type: 1
+  variables: null
+  width: 1600
+  x: 6000
+  y: 0
+- auto_size: false
+  canvas_id: d8514777-f1cb-4d9b-bf1b-1d619ed317f3
+  compute_settings: null
+  description: Defines FastAPI backend with 15+ REST endpoints for job search, authentication,
+    resume upload, applications, and skill gap analysis
+  height: 1000
+  id: 8eee7e1e-2058-40df-9a13-388798a21cfd
+  layer_id: fcb16bee-9c37-48b0-95bc-7470d0397efe
+  name: backend_api_services
+  parent_id: null
+  properties: {}
+  status: 1
+  type: 1
+  variables: null
+  width: 1600
+  x: 10000
+  y: 0
+- auto_size: false
+  canvas_id: d8514777-f1cb-4d9b-bf1b-1d619ed317f3
+  compute_settings: null
+  description: Extracts text from requirements PDF and displays document content
+  height: 1000
+  id: 911a6440-aba5-45cd-89f0-45673a1fffc5
+  layer_id: fcb16bee-9c37-48b0-95bc-7470d0397efe
+  name: load_requirements_pdf
+  parent_id: null
+  properties: {}
+  status: 1
+  type: 1
+  variables: null
+  width: 1600
+  x: 0
+  y: 0
+- auto_size: false
+  canvas_id: d8514777-f1cb-4d9b-bf1b-1d619ed317f3
+  compute_settings: null
+  description: Defines production-ready AWS deployment architecture with microservices,
+    containerized FastAPI servers, MongoDB/OpenSearch databases, Redis caching, multi-AZ
+    failover, JWT security, CI/CD pipelines, monitoring & disaster recovery for 10K+
+    concurrent users.
+  height: 1000
+  id: a1e9daa7-db57-4323-9679-98fbed81f4cd
+  layer_id: fcb16bee-9c37-48b0-95bc-7470d0397efe
+  name: deployment_infrastructure
+  parent_id: null
+  properties: {}
+  status: 1
+  type: 1
+  variables: null
+  width: 1600
+  x: 14000
+  y: 0
+- auto_size: false
+  canvas_id: d8514777-f1cb-4d9b-bf1b-1d619ed317f3
+  compute_settings: null
+  description: Defines MongoDB Pydantic data models with validation for users, jobs,
+    applications, skill gap analysis, admin roles, moderation, and analytics with
+    optimized indexing
+  height: 1000
+  id: a74ee9cc-6fc3-4d74-a2da-2f0294b89578
+  layer_id: fcb16bee-9c37-48b0-95bc-7470d0397efe
+  name: database_schema
+  parent_id: null
+  properties: {}
+  status: 1
+  type: 1
+  variables: null
+  width: 1600
+  x: 4000
+  y: 0
+- auto_size: false
+  canvas_id: d8514777-f1cb-4d9b-bf1b-1d619ed317f3
+  compute_settings: null
+  description: Defines complete responsive UI component system with React/TypeScript
+    stack, Tailwind CSS styling, and WCAG 2.1 accessibility across all pages
+  height: 1000
+  id: ad82bc20-1054-4970-b91d-14cbe152cf26
+  layer_id: fcb16bee-9c37-48b0-95bc-7470d0397efe
+  name: ui_components_design
+  parent_id: null
+  properties: {}
+  status: 1
+  type: 1
+  variables: null
+  width: 1600
+  x: 16000
+  y: 0
+- auto_size: false
+  canvas_id: d8514777-f1cb-4d9b-bf1b-1d619ed317f3
+  compute_settings: null
+  description: Generates production-ready React TypeScript components for job search
+    platform with job search page, cards, filters, user profiles, applications tracking,
+    and admin dashboard using React Query and Tailwind CSS
+  height: 1000
+  id: d07cd3b5-7bbc-4d39-ad8f-0f17164dca05
+  layer_id: fcb16bee-9c37-48b0-95bc-7470d0397efe
+  name: react_implementation_code
+  parent_id: null
+  properties: {}
+  status: 1
+  type: 1
+  variables: null
+  width: 1600
+  x: 18000
+  y: 0
+- auto_size: false
+  canvas_id: d8514777-f1cb-4d9b-bf1b-1d619ed317f3
+  compute_settings: null
+  description: Runs 10 comprehensive integration tests validating database schema,
+    authentication, API keys, AI matching, search, endpoints, deployment, UI, React
+    implementation, and end-to-end user flows
+  height: 1000
+  id: e9b37497-cbfe-4a96-800d-ddf1a9ee804e
+  layer_id: fcb16bee-9c37-48b0-95bc-7470d0397efe
+  name: comprehensive_integration_tests
+  parent_id: null
+  properties: {}
+  status: 1
+  type: 1
+  variables: null
+  width: 1600
+  x: 20000
+  y: 0
+- auto_size: false
+  canvas_id: d8514777-f1cb-4d9b-bf1b-1d619ed317f3
+  compute_settings: null
+  description: Structures fresher job search platform requirements into organized
+    JSON with core objectives, tech stack, architecture, and 4-week MVP roadmap
+  height: 1000
+  id: edddc1e8-47a6-42a9-9e7f-6e185d254cbd
+  layer_id: fcb16bee-9c37-48b0-95bc-7470d0397efe
+  name: parse_requirements_structure
+  parent_id: null
+  properties: {}
+  status: 1
+  type: 1
+  variables: null
+  width: 1600
+  x: 2000
+  y: 0
+edges:
+- canvas_id: d8514777-f1cb-4d9b-bf1b-1d619ed317f3
+  id: 06e0b5f9-5fd0-4b94-917b-de3a56e0a724
+  layer_id: fcb16bee-9c37-48b0-95bc-7470d0397efe
+  source: a1e9daa7-db57-4323-9679-98fbed81f4cd
+  target: ad82bc20-1054-4970-b91d-14cbe152cf26
+- canvas_id: d8514777-f1cb-4d9b-bf1b-1d619ed317f3
+  id: 18292e02-6669-421c-9211-717559df8226
+  layer_id: fcb16bee-9c37-48b0-95bc-7470d0397efe
+  source: d07cd3b5-7bbc-4d39-ad8f-0f17164dca05
+  target: e9b37497-cbfe-4a96-800d-ddf1a9ee804e
+- canvas_id: d8514777-f1cb-4d9b-bf1b-1d619ed317f3
+  id: 1cab8cab-d285-431a-9e4e-6873a2c4fc47
+  layer_id: fcb16bee-9c37-48b0-95bc-7470d0397efe
+  source: e9b37497-cbfe-4a96-800d-ddf1a9ee804e
+  target: 28fe061d-732f-417a-bbab-c933d5dfc0fd
+- canvas_id: d8514777-f1cb-4d9b-bf1b-1d619ed317f3
+  id: 23911839-ee83-4c5e-8fcd-284e4b21f80b
+  layer_id: fcb16bee-9c37-48b0-95bc-7470d0397efe
+  source: 57983c76-1fda-4538-9a6a-8bbf973a2f03
+  target: 4a1434e6-9b28-49fa-bd46-4d55c5937544
+- canvas_id: d8514777-f1cb-4d9b-bf1b-1d619ed317f3
+  id: 304931a7-6d6b-4223-bc6a-f5cd9c65508a
+  layer_id: fcb16bee-9c37-48b0-95bc-7470d0397efe
+  source: a74ee9cc-6fc3-4d74-a2da-2f0294b89578
+  target: 57983c76-1fda-4538-9a6a-8bbf973a2f03
+- canvas_id: d8514777-f1cb-4d9b-bf1b-1d619ed317f3
+  id: 3ba9a1cd-4f4a-4535-a950-00bbc65fbc2f
+  layer_id: fcb16bee-9c37-48b0-95bc-7470d0397efe
+  source: edddc1e8-47a6-42a9-9e7f-6e185d254cbd
+  target: a74ee9cc-6fc3-4d74-a2da-2f0294b89578
+- canvas_id: d8514777-f1cb-4d9b-bf1b-1d619ed317f3
+  id: 4c6089b8-7c49-4f1d-ba7f-14ed79e6e219
+  layer_id: fcb16bee-9c37-48b0-95bc-7470d0397efe
+  source: 4a1434e6-9b28-49fa-bd46-4d55c5937544
+  target: 8eee7e1e-2058-40df-9a13-388798a21cfd
+- canvas_id: d8514777-f1cb-4d9b-bf1b-1d619ed317f3
+  id: a4958255-6003-4b97-acab-f3997c83c470
+  layer_id: fcb16bee-9c37-48b0-95bc-7470d0397efe
+  source: 8eee7e1e-2058-40df-9a13-388798a21cfd
+  target: 18c60899-03a0-4642-af19-27241b3547ac
+- canvas_id: d8514777-f1cb-4d9b-bf1b-1d619ed317f3
+  id: b2eb073e-1175-4876-b44d-abae5674d742
+  layer_id: fcb16bee-9c37-48b0-95bc-7470d0397efe
+  source: ad82bc20-1054-4970-b91d-14cbe152cf26
+  target: d07cd3b5-7bbc-4d39-ad8f-0f17164dca05
+- canvas_id: d8514777-f1cb-4d9b-bf1b-1d619ed317f3
+  id: dc6ff7fd-6ae3-4e3f-bdc3-b0da3601fdbf
+  layer_id: fcb16bee-9c37-48b0-95bc-7470d0397efe
+  source: 911a6440-aba5-45cd-89f0-45673a1fffc5
+  target: edddc1e8-47a6-42a9-9e7f-6e185d254cbd
+- canvas_id: d8514777-f1cb-4d9b-bf1b-1d619ed317f3
+  id: ed1007cc-10f0-4da2-b9ad-4e39ff399929
+  layer_id: fcb16bee-9c37-48b0-95bc-7470d0397efe
+  source: 18c60899-03a0-4642-af19-27241b3547ac
+  target: a1e9daa7-db57-4323-9679-98fbed81f4cd
